@@ -1,4 +1,4 @@
-with open('input.txt.txt', 'r') as file:
+with open('input.txt', 'r') as file:
     a = int(file.readline().strip())
     b = int(file.readline().strip())
     c = int(file.readline().strip())
